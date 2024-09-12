@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Уучлаарай</title>
     <style>
+
         body {
             background-color: #f8f9fa;
             display: flex;
@@ -56,8 +57,8 @@
 </head>
 <body>
     <div class="message-box">
-        <h1>Уучлаарай ❤️</h1>
-        <p>Хөөрхөн охин уурлаж болохгүй шүү дэ.</p>
+        <h1>Index.html</h1>
+        <p>Computer hangamj software developer.</p>
         <p class="heart">💖</p>
     </div>
 </body>
